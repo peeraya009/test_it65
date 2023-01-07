@@ -5,10 +5,7 @@ include ("nav.php");
 ?>
 
 <div class = "container mt-5">
-  <div class = "row">
-    
-
-  </div>
+    <h1>page index</h1>
 </div>
 <?php
 include ("footer.php");
